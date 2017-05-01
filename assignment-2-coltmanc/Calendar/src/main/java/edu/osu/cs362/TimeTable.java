@@ -96,7 +96,7 @@ public class TimeTable {
 	     * Deletes the appointment's information from the appointments data list. 
 	     * @return updated list of appointments if the appointment is deleted successfully, otherwise null.
 	     **/
-	    public LinkedList<Appt> deleteAppt(LinkedList<Appt> appts,Appt appt) {
+	    public LinkedList<Appt> deleteAppt(LinkedList<Appt> appts, Appt appt) {
 	    	//Do not do anything to appts equals to null 
 	        if(appts==null||appt==null)
         		return null;

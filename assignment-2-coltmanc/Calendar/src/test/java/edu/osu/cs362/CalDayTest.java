@@ -50,10 +50,22 @@ public class CalDayTest {
 	}
 	@Test
 	public void test03(){
-	 	GregorianCalendar cal = new GregorianCalendar();
-	 	CalDay calday = new CalDay();
+		GregorianCalendar cal = new GregorianCalendar();
+		cal.set(2017, 01, 28);
+		CalDay calday = new CalDay(cal);
+		Appt appt1 = new Appt(13, 30, 10, 4, 2017,	"Test", "Test");
+		Appt appt2 = new Appt(15,30,10,4,2017,"Test","Test");
+		assertTrue(calday.isValid());
+		calday.addAppt(appt2);
+		calday.addAppt(appt1);
+
+	}
+	@Test
+	public void test04(){
+		GregorianCalendar cal = new GregorianCalendar();
+		cal.set(2017, 01, 28);
+		CalDay calday = new CalDay();
 		assertFalse(calday.isValid());
-
-
+		calday.iterator();
 	}
 }
