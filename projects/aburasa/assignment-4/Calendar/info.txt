@@ -1,0 +1,379 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Calendar 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ Calendar ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Godtop\Documents\GitHub\projects\aburasa\assignment-4\Calendar\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ Calendar ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ Calendar ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Godtop\Documents\GitHub\projects\aburasa\assignment-4\Calendar\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ Calendar ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ Calendar ---
+[INFO] Surefire report directory: C:\Users\Godtop\Documents\GitHub\projects\aburasa\assignment-4\Calendar\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running edu.osu.cs362.ApptRandomTest
+Start testing...
+elapsed time: 131 of 30000
+elapsed time: 232 of 30000
+elapsed time: 332 of 30000
+elapsed time: 432 of 30000
+elapsed time: 532 of 30000
+elapsed time: 633 of 30000
+elapsed time: 717 of 30000
+elapsed time: 818 of 30000
+elapsed time: 902 of 30000
+elapsed time: 1018 of 30000
+elapsed time: 1118 of 30000
+elapsed time: 1203 of 30000
+elapsed time: 1288 of 30000
+elapsed time: 1372 of 30000
+elapsed time: 1472 of 30000
+elapsed time: 1551 of 30000
+elapsed time: 1635 of 30000
+elapsed time: 1736 of 30000
+elapsed time: 1820 of 30000
+elapsed time: 1905 of 30000
+elapsed time: 1989 of 30000
+elapsed time: 2074 of 30000
+elapsed time: 2152 of 30000
+elapsed time: 2237 of 30000
+elapsed time: 2322 of 30000
+elapsed time: 2391 of 30000
+elapsed time: 2491 of 30000
+elapsed time: 2576 of 30000
+elapsed time: 2654 of 30000
+elapsed time: 2738 of 30000
+elapsed time: 2823 of 30000
+elapsed time: 2908 of 30000
+elapsed time: 2993 of 30000
+elapsed time: 3077 of 30000
+elapsed time: 3155 of 30000
+elapsed time: 3255 of 30000
+elapsed time: 3340 of 30000
+elapsed time: 3425 of 30000
+elapsed time: 3509 of 30000
+elapsed time: 3594 of 30000
+elapsed time: 3678 of 30000
+elapsed time: 3757 of 30000
+elapsed time: 3841 of 30000
+elapsed time: 3926 of 30000
+elapsed time: 4010 of 30000
+elapsed time: 4095 of 30000
+elapsed time: 4180 of 30000
+elapsed time: 4274 of 30000
+elapsed time: 4358 of 30000
+elapsed time: 4443 of 30000
+elapsed time: 4543 of 30000
+elapsed time: 4628 of 30000
+elapsed time: 4712 of 30000
+elapsed time: 4797 of 30000
+elapsed time: 4881 of 30000
+elapsed time: 4982 of 30000
+elapsed time: 5078 of 30000
+elapsed time: 5160 of 30000
+elapsed time: 5245 of 30000
+elapsed time: 5345 of 30000
+elapsed time: 5430 of 30000
+elapsed time: 5514 of 30000
+elapsed time: 5599 of 30000
+elapsed time: 5699 of 30000
+elapsed time: 5784 of 30000
+elapsed time: 5882 of 30000
+elapsed time: 5962 of 30000
+elapsed time: 6062 of 30000
+elapsed time: 6147 of 30000
+elapsed time: 6232 of 30000
+elapsed time: 6316 of 30000
+elapsed time: 6401 of 30000
+elapsed time: 6501 of 30000
+elapsed time: 6586 of 30000
+elapsed time: 6686 of 30000
+elapsed time: 6765 of 30000
+elapsed time: 6865 of 30000
+elapsed time: 6949 of 30000
+elapsed time: 7047 of 30000
+elapsed time: 7134 of 30000
+elapsed time: 7218 of 30000
+elapsed time: 7303 of 30000
+elapsed time: 7387 of 30000
+elapsed time: 7488 of 30000
+elapsed time: 7566 of 30000
+elapsed time: 7651 of 30000
+elapsed time: 7735 of 30000
+elapsed time: 7835 of 30000
+elapsed time: 7920 of 30000
+elapsed time: 8004 of 30000
+elapsed time: 8089 of 30000
+elapsed time: 8167 of 30000
+elapsed time: 8252 of 30000
+elapsed time: 8352 of 30000
+elapsed time: 8436 of 30000
+elapsed time: 8521 of 30000
+elapsed time: 8621 of 30000
+elapsed time: 8706 of 30000
+elapsed time: 8806 of 30000
+elapsed time: 8890 of 30000
+elapsed time: 8990 of 30000
+elapsed time: 9069 of 30000
+elapsed time: 9169 of 30000
+elapsed time: 9254 of 30000
+elapsed time: 9354 of 30000
+elapsed time: 9438 of 30000
+elapsed time: 9523 of 30000
+elapsed time: 9623 of 30000
+elapsed time: 9708 of 30000
+elapsed time: 9793 of 30000
+elapsed time: 9889 of 30000
+elapsed time: 9971 of 30000
+elapsed time: 10056 of 30000
+elapsed time: 10140 of 30000
+elapsed time: 10240 of 30000
+elapsed time: 10325 of 30000
+elapsed time: 10425 of 30000
+elapsed time: 10510 of 30000
+elapsed time: 10594 of 30000
+elapsed time: 10695 of 30000
+elapsed time: 10773 of 30000
+elapsed time: 10857 of 30000
+elapsed time: 10957 of 30000
+elapsed time: 11041 of 30000
+elapsed time: 11126 of 30000
+elapsed time: 11211 of 30000
+elapsed time: 11311 of 30000
+elapsed time: 11411 of 30000
+elapsed time: 11496 of 30000
+elapsed time: 11593 of 30000
+elapsed time: 11674 of 30000
+elapsed time: 11759 of 30000
+elapsed time: 11859 of 30000
+elapsed time: 11944 of 30000
+elapsed time: 12044 of 30000
+elapsed time: 12129 of 30000
+elapsed time: 12213 of 30000
+elapsed time: 12313 of 30000
+elapsed time: 12398 of 30000
+elapsed time: 12476 of 30000
+elapsed time: 12597 of 30000
+elapsed time: 12697 of 30000
+elapsed time: 12777 of 30000
+elapsed time: 12877 of 30000
+elapsed time: 12996 of 30000
+elapsed time: 13078 of 30000
+elapsed time: 13178 of 30000
+elapsed time: 13262 of 30000
+elapsed time: 13347 of 30000
+elapsed time: 13447 of 30000
+elapsed time: 13532 of 30000
+elapsed time: 13616 of 30000
+elapsed time: 13717 of 30000
+elapsed time: 13801 of 30000
+elapsed time: 13899 of 30000
+elapsed time: 13981 of 30000
+elapsed time: 14064 of 30000
+elapsed time: 14164 of 30000
+elapsed time: 14249 of 30000
+elapsed time: 14333 of 30000
+elapsed time: 14433 of 30000
+elapsed time: 14517 of 30000
+elapsed time: 14602 of 30000
+elapsed time: 14700 of 30000
+elapsed time: 14802 of 30000
+elapsed time: 14880 of 30000
+elapsed time: 14965 of 30000
+elapsed time: 15064 of 30000
+elapsed time: 15149 of 30000
+elapsed time: 15233 of 30000
+elapsed time: 15318 of 30000
+elapsed time: 15417 of 30000
+elapsed time: 15501 of 30000
+elapsed time: 15601 of 30000
+elapsed time: 15699 of 30000
+elapsed time: 15780 of 30000
+elapsed time: 15880 of 30000
+elapsed time: 15965 of 30000
+elapsed time: 16049 of 30000
+elapsed time: 16149 of 30000
+elapsed time: 16233 of 30000
+elapsed time: 16349 of 30000
+elapsed time: 16433 of 30000
+elapsed time: 16533 of 30000
+elapsed time: 16618 of 30000
+elapsed time: 16703 of 30000
+elapsed time: 16803 of 30000
+elapsed time: 16899 of 30000
+elapsed time: 16981 of 30000
+elapsed time: 17066 of 30000
+elapsed time: 17166 of 30000
+elapsed time: 17250 of 30000
+elapsed time: 17334 of 30000
+elapsed time: 17435 of 30000
+elapsed time: 17535 of 30000
+elapsed time: 17635 of 30000
+elapsed time: 17719 of 30000
+elapsed time: 17804 of 30000
+elapsed time: 17904 of 30000
+elapsed time: 17982 of 30000
+elapsed time: 18082 of 30000
+elapsed time: 18167 of 30000
+elapsed time: 18251 of 30000
+elapsed time: 18352 of 30000
+elapsed time: 18452 of 30000
+elapsed time: 18552 of 30000
+elapsed time: 18637 of 30000
+elapsed time: 18721 of 30000
+elapsed time: 18821 of 30000
+elapsed time: 18906 of 30000
+elapsed time: 19003 of 30000
+elapsed time: 19085 of 30000
+elapsed time: 19169 of 30000
+elapsed time: 19253 of 30000
+elapsed time: 19354 of 30000
+elapsed time: 19439 of 30000
+elapsed time: 19523 of 30000
+elapsed time: 19608 of 30000
+elapsed time: 19708 of 30000
+elapsed time: 19786 of 30000
+elapsed time: 19886 of 30000
+elapsed time: 19970 of 30000
+elapsed time: 20055 of 30000
+elapsed time: 20155 of 30000
+elapsed time: 20239 of 30000
+elapsed time: 20323 of 30000
+elapsed time: 20408 of 30000
+elapsed time: 20508 of 30000
+elapsed time: 20609 of 30000
+elapsed time: 20687 of 30000
+elapsed time: 20787 of 30000
+elapsed time: 20887 of 30000
+elapsed time: 20988 of 30000
+elapsed time: 21072 of 30000
+elapsed time: 21157 of 30000
+elapsed time: 21241 of 30000
+elapsed time: 21341 of 30000
+elapsed time: 21425 of 30000
+elapsed time: 21526 of 30000
+elapsed time: 21610 of 30000
+elapsed time: 21721 of 30000
+elapsed time: 21811 of 30000
+elapsed time: 21901 of 30000
+elapsed time: 21991 of 30000
+elapsed time: 22085 of 30000
+elapsed time: 22173 of 30000
+elapsed time: 22273 of 30000
+elapsed time: 22358 of 30000
+elapsed time: 22442 of 30000
+elapsed time: 22542 of 30000
+elapsed time: 22636 of 30000
+elapsed time: 22721 of 30000
+elapsed time: 22805 of 30000
+elapsed time: 22889 of 30000
+elapsed time: 22974 of 30000
+elapsed time: 23074 of 30000
+elapsed time: 23158 of 30000
+elapsed time: 23243 of 30000
+elapsed time: 23342 of 30000
+elapsed time: 23421 of 30000
+elapsed time: 23505 of 30000
+elapsed time: 23606 of 30000
+elapsed time: 23690 of 30000
+elapsed time: 23775 of 30000
+elapsed time: 23859 of 30000
+elapsed time: 23959 of 30000
+elapsed time: 24044 of 30000
+elapsed time: 24138 of 30000
+elapsed time: 24222 of 30000
+elapsed time: 24307 of 30000
+elapsed time: 24406 of 30000
+elapsed time: 24506 of 30000
+elapsed time: 24591 of 30000
+elapsed time: 24676 of 30000
+elapsed time: 24776 of 30000
+elapsed time: 24865 of 30000
+elapsed time: 24945 of 30000
+elapsed time: 25045 of 30000
+elapsed time: 25124 of 30000
+elapsed time: 25208 of 30000
+elapsed time: 25309 of 30000
+elapsed time: 25393 of 30000
+elapsed time: 25477 of 30000
+elapsed time: 25562 of 30000
+elapsed time: 25662 of 30000
+elapsed time: 25746 of 30000
+elapsed time: 25824 of 30000
+elapsed time: 25924 of 30000
+elapsed time: 26009 of 30000
+elapsed time: 26109 of 30000
+elapsed time: 26193 of 30000
+elapsed time: 26278 of 30000
+elapsed time: 26378 of 30000
+elapsed time: 26463 of 30000
+elapsed time: 26547 of 30000
+elapsed time: 26643 of 30000
+elapsed time: 26726 of 30000
+elapsed time: 26811 of 30000
+elapsed time: 26895 of 30000
+elapsed time: 26995 of 30000
+elapsed time: 27095 of 30000
+elapsed time: 27180 of 30000
+elapsed time: 27280 of 30000
+elapsed time: 27365 of 30000
+elapsed time: 27449 of 30000
+elapsed time: 27548 of 30000
+elapsed time: 27628 of 30000
+elapsed time: 27712 of 30000
+elapsed time: 27813 of 30000
+elapsed time: 27897 of 30000
+elapsed time: 27981 of 30000
+elapsed time: 28082 of 30000
+elapsed time: 28166 of 30000
+elapsed time: 28268 of 30000
+elapsed time: 28350 of 30000
+elapsed time: 28446 of 30000
+elapsed time: 28529 of 30000
+elapsed time: 28613 of 30000
+elapsed time: 28698 of 30000
+elapsed time: 28798 of 30000
+elapsed time: 28883 of 30000
+elapsed time: 28967 of 30000
+elapsed time: 29051 of 30000
+elapsed time: 29151 of 30000
+elapsed time: 29230 of 30000
+elapsed time: 29315 of 30000
+elapsed time: 29399 of 30000
+elapsed time: 29500 of 30000
+elapsed time: 29584 of 30000
+elapsed time: 29669 of 30000
+elapsed time: 29769 of 30000
+elapsed time: 29854 of 30000
+elapsed time: 29952 of 30000
+Done testing...
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.042 sec
+Running edu.osu.cs362.CalDayRandomTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+Running edu.osu.cs362.TimeTableRandomTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+
+Results :
+
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 31.741 s
+[INFO] Finished at: 2017-05-25T11:12:11-07:00
+[INFO] Final Memory: 12M/225M
+[INFO] ------------------------------------------------------------------------
